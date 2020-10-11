@@ -39,7 +39,7 @@ stemmer = PorterStemmer()
 
 word_clusters = {}
 
-path ='/Users/sohailnizam/Desktop/Bio NLP/'
+path ='./'
 
 
 ########## Helper Functions ##########
